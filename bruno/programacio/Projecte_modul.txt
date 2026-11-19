@@ -1,0 +1,2 @@
+Aquest projecte, es del mòdul XX, i tindrà com objectiu crear una APP que doni suport a l'àrea cometrcial.
+El sistema es desenvoluparà amb Angular.
